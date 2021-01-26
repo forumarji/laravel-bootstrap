@@ -1,5 +1,6 @@
 # laravel-bootstrap
 Laravel with bootstrap - sample app in lessthan 10 mins
+
 Here I given very simple instructions as per the laravel docs 
 
 Open CLI/Command Line Interface
